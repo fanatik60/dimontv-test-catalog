@@ -1,47 +1,57 @@
 {
-  "schemaVersion": 1,
-  "movies": [
-    {
-      "id": "dimon-test-bunny",
-      "title": "Big Buck Bunny — тест",
-      "year": "2008",
-      "subtitle": "Открытый демонстрационный ролик",
-      "description": "Проверка воспроизведения открытого тестового видео.",
-      "streamUrl": "https://media.w3.org/2010/05/bunny/movie.mp4",
-      "genre": "Анимация",
-      "durationMinutes": 10,
-      "contentType": "movie"
-    },
-    {
-      "id": "dimon-test-2012",
-      "title": "Тестовая запись 2012",
-      "year": "2012",
-      "subtitle": "Без видеопотока",
-      "description": "Метаданные для проверки фильтра «Только с видео».",
-      "genre": "Документальный",
-      "durationMinutes": 12,
-      "contentType": "movie"
-    },
-    {
-      "id": "dimon-test-2024",
-      "title": "Тестовая запись 2024",
-      "year": "2024",
-      "subtitle": "Без видеопотока",
-      "description": "Метаданные для проверки сортировки по году.",
-      "genre": "Документальный",
-      "durationMinutes": 14,
-      "contentType": "movie"
-    },
-    {
-      "id": "dimon-test-2020",
-      "title": "Видео для проверки 2020",
-      "year": "2020",
-      "subtitle": "Открытый демонстрационный ролик",
-      "description": "Проверка сочетания фильтра и сортировки.",
-      "streamUrl": "https://media.w3.org/2010/05/bunny/movie.mp4",
-      "genre": "Анимация",
-      "durationMinutes": 10,
-      "contentType": "movie"
-    }
-  ]
-}
+    "schemaVersion":  1,
+    "movies":  [
+                   {
+                       "id":  "dimon-test-bunny",
+                       "title":  "Big Buck Bunny — тест",
+                       "year":  "2008",
+                       "subtitle":  "Открытый демонстрационный ролик",
+                       "description":  "Проверка воспроизведения открытого тестового видео.",
+                       "streamUrl":  "https://media.w3.org/2010/05/bunny/movie.mp4",
+                       "genre":  "Анимация",
+                       "durationMinutes":  10,
+                       "contentType":  "movie"
+                   },
+                   {
+                       "id":  "dimon-test-2012",
+                       "title":  "Тестовая запись 2012",
+                       "year":  "2012",
+                       "subtitle":  "Без видеопотока",
+                       "description":  "Метаданные для проверки фильтра «Только с видео».",
+                       "genre":  "Документальный",
+                       "durationMinutes":  12,
+                       "contentType":  "movie"
+                   },
+                   {
+                       "id":  "dimon-test-2024",
+                       "title":  "Тестовая запись 2024",
+                       "year":  "2024",
+                       "subtitle":  "Без видеопотока",
+                       "description":  "Метаданные для проверки сортировки по году.",
+                       "genre":  "Документальный",
+                       "durationMinutes":  14,
+                       "contentType":  "movie"
+                   },
+                   {
+                       "id":  "dimon-test-2020",
+                       "title":  "Видео для проверки 2020",
+                       "year":  "2020",
+                       "subtitle":  "Открытый демонстрационный ролик",
+                       "description":  "Проверка сочетания фильтра и сортировки.",
+                       "streamUrl":  "https://media.w3.org/2010/05/bunny/movie.mp4",
+                       "genre":  "Анимация",
+                       "durationMinutes":  10,
+                       "contentType":  "movie"
+                   },
+                   {
+                       "id":  "dimon-test-2018",
+                       "title":  "Тестовая запись 2018",
+                       "year":  "2018",
+                       "subtitle":  "Без видеопотока",
+                       "description":  "Проверка обновления внешнего каталога и сохранения выбора.",
+                       "genre":  "Документальный",
+                       "durationMinutes":  11,
+                       "contentType":  "movie"
+                   }
+               ]
+}\n
