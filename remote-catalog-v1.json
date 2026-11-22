@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "movies": [
+    {
+      "id": "dimon-test-bunny",
+      "title": "DimonTV HTTPS Test",
+      "year": "2008",
+      "subtitle": "Проверка HTTPS-каталога",
+      "description": "Тестовая запись с открытым роликом Blender Foundation.",
+      "streamUrl": "https://media.w3.org/2010/05/bunny/movie.mp4",
+      "genre": "Анимация",
+      "durationMinutes": 10,
+      "contentType": "movie"
+    }
+  ]
+}
